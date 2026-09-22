@@ -5,7 +5,7 @@
 ```
   ──────────────────────────────────────────────────────────────
    TUCKERSOFT · CONTROL DE CALIDAD
-   motor: http://localhost:8080        corrida: MUBWPCWX
+   motor: http://localhost:8080        corrida: MUBX5S22
   ──────────────────────────────────────────────────────────────
 
    ★★★★★   5 / 5   Cinco estrellas.
@@ -16,7 +16,7 @@
    ✔  ★4  DECISIONES   101 comprobaciones
    ✔  ★5  ASINCRONIA   41 comprobaciones
 
-   tablero: publicado como "G07"
+   tablero: publicado como "G09"
 
    Las cinco estrellas. Bandersnatch sale para Navidad.
   ──────────────────────────────────────────────────────────────
@@ -51,5 +51,5 @@ Las entradas `ENTRADA_CORRUPTA` se guardan con `ERROR` y no publican evento.
 
 ## Pendiente
 
-Nada: las 5 estrellas pasan, el tablero está publicado como G07 y los 5 tests unitarios
+Nada: las 5 estrellas pasan, el tablero está publicado como G09 y los 5 tests unitarios
 están implementados.
